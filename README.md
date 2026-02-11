@@ -1,7 +1,3 @@
-Here is the complete, concise, and professional `README.md`.
-
----
-
 # Linux Kernel Input Notification Module
 
 ## Project Overview
